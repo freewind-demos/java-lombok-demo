@@ -1,7 +1,7 @@
-Java Maven Demo
+Java Lombok Demo
 =====================
 
-Use maven for Java.
+使用Lombok简化Java Bean
 
 How to run:
 
